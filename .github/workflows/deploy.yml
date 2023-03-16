@@ -25,7 +25,7 @@ jobs:
           node-version: 16
           cache: 'pnpm'
       - name: Install dependencies
-        run: pnpm 
+        run: pnpm install
       - name: Build
         run: pnpm docs:build
       - uses: actions/configure-pages@v2
