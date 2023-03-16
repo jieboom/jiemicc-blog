@@ -1,0 +1,13 @@
+# Log files
+*.log
+
+# node modules
+node_modules
+
+# Docs dist directory
+.vitepress/dist
+.vitepress/cache
+
+# Editor directories and files
+.vscode
+
