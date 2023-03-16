@@ -5,6 +5,7 @@ export default defineConfig({
   title: "jiemicc",
   description: " jiemicc's blog ",
   srcDir: "src",
+  base: "/jiemicc-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
