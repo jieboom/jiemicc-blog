@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "jiemicc"
-  text: " jiemicc's blog "
-  tagline: My great project tagline
+  text: "Jiemicc's blog "
+  tagline: Hi, i just wanna to take it easy to my life
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Vite
+      link: /vite/start/start.html
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /example/api-examples.html
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 中文
+    details: 生活就是做一些自己开心的事，然后努力一直快乐下去
+  - title: English
+    details: The meaning of life just like a happy boy,and the boy will always be happy
+  - title: українська
+    details: Навіщо Росія знущається над вами, гоніть додому
 ---
 
