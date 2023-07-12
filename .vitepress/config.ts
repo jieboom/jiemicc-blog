@@ -8,7 +8,7 @@ export default defineConfig({
   base: "/jiemicc-blog/",
   head:[
     ['link',{
-      rel:'icon',href:'/assets/images/favicon.ico'
+      rel:'icon',href:'/public/favicon.ico'
     }]
   ],
   themeConfig: {
